@@ -1,0 +1,9 @@
+\\Mac\Home\Desktop\Riot Developer Build\Riot\Riot\bin\Debug\Riot.exe.config
+\\Mac\Home\Desktop\Riot Developer Build\Riot\Riot\bin\Debug\Riot.exe
+\\Mac\Home\Desktop\Riot Developer Build\Riot\Riot\bin\Debug\Riot.pdb
+\\Mac\Home\Desktop\Riot Developer Build\Riot\Riot\obj\Debug\Riot.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Riot Developer Build\Riot\Riot\obj\Debug\Riot.Properties.Resources.resources
+\\Mac\Home\Desktop\Riot Developer Build\Riot\Riot\obj\Debug\Riot.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Riot Developer Build\Riot\Riot\obj\Debug\Riot.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Riot Developer Build\Riot\Riot\obj\Debug\Riot.exe
+\\Mac\Home\Desktop\Riot Developer Build\Riot\Riot\obj\Debug\Riot.pdb
