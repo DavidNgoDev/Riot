@@ -1,5 +1,5 @@
 
-![alt text][logo]
+![Riot Logo][logo]
 
 [logo]: https://github.com/DavidNgoDev/Riot/blob/master/Assets/Asset%2035.png "Logo Title Text 2"
 An Essential Tool For Any Security Analysist. Create payloads, monitor attacks and access a plethora of networking tools.
@@ -17,3 +17,6 @@ Riot features a simple easy to use GUI where auditing can be completed with a fe
 ## API and Services Used
 
 ## Credits
+
+## Notes
+The code is open source and free to use however the images are icons used in this project are not.
